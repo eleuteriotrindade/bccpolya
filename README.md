@@ -22,6 +22,7 @@
                             retornar (result)
                           fimalgoritmo        
 
-- ![](https://github.com/eleuteriotrindade/imagens/blob/master/pasta/Fluxograma.png)                        
+-  
+  ![Fluxograma](https://github.com/eleuteriotrindade/imagens/blob/master/pasta/Fluxograma.png)                        
  
 - George Polya foi um grande matemático que se dedicou a arte de resolver problemas, por isso o nome do nosso repositório tem o termo "polya", pois estamos resolvendo um problema.
