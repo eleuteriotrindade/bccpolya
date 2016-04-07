@@ -17,4 +17,4 @@
                             retornar (result)
                           fimalgoritmo        
                         
- 
+ - George Polya foi um grande matemático que se dedicou a arte de resolver problemas, por isso o nome do nosso repositório tem o termo "polya", pois estamos resolvendo um problema.
